@@ -1,6 +1,6 @@
 # 🍣 СушиТуса
 
-**Демо:** [Смотреть сайт](https://sushi-tusa65.tilda.ws/) 
+**Демо:** [Смотреть сайт](https://sushi-tusa65.tilda.ws/)
 
 ---
 
